@@ -1,4 +1,4 @@
-                                                                    Terraform AWS S3 Module:
+                                  Terraform AWS S3 Module:
 Overview:
 
 Create a Terraform module for deploying an AWS S3 bucket with configurable parameters such as the bucket name, access control list (ACL), 
